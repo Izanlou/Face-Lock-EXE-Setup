@@ -14,3 +14,5 @@ Suggested requirement for running:
   
 >> It's recommended to clean your startup apps and disable unnecessary softwares.
 >> It helps a lot to speed up the loading of Freeze-Wall!
+
+Download Link : https://drive.google.com/file/d/1iL50p2On1uf4TEm35YWJnD45U62g2CSG/view?usp=sharing
